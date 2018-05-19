@@ -7,3 +7,6 @@ images/user/
 images/FullIJCNN2013.zip
 images/TestIJCNN2013.zip
 
+!images/train/.gitkeep
+!images/test/.gitkeep
+!images/user/.gitkeep
