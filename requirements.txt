@@ -1,0 +1,12 @@
+The following libraries are used in the current project:
+
+click
+requests
+zipfile
+imutils
+sklearn
+keras
+PIL
+numpy
+cv2
+tensorflow
