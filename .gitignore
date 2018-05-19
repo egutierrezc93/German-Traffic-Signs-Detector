@@ -1,9 +1,9 @@
 .idea
 __pycache__
 images/FullIJCNN2013
-images/train/
-images/test/
-images/user/
+images/train/*
+images/test/*
+images/user/*
 images/FullIJCNN2013.zip
 images/TestIJCNN2013.zip
 
